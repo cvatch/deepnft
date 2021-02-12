@@ -1,7 +1,7 @@
 # Site settings
 title: GrowTye
 email: GrowTye@gmail.com
-description: > "Links to find more of GrowTye all over the interwebs"
+description: Links to find more of GrowTye all over the interwebs
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "growtye.info" # the base hostname & protocol for your site
